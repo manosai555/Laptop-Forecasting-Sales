@@ -52,7 +52,7 @@ To set up and run the Business Demand Estimation web app, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/manosai555/Laptop-Forecasting-Sales
+   git clone https://github.com/manosai555/Laptop-Forecasting-Sales/tree/main
 
 2. Navigate to the project directory:
 
